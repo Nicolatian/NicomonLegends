@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e148086f0ac025f4880ee79166a17783, type: 3}
+  m_Name: Cactie Rush
+  m_EditorClassIdentifier: 
+  moveName: Cactie Rush
+  power: 30
+  accuracy: 90
+  elementType: 0
+  maxUsage: 15
+  moveParticleEffect: {fileID: 8137174988946518831, guid: fe2a4f0f1533e404c94c5a503e0d6f30, type: 3}

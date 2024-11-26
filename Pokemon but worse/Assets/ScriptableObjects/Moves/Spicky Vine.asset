@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e148086f0ac025f4880ee79166a17783, type: 3}
+  m_Name: Spicky Vine
+  m_EditorClassIdentifier: 
+  moveName: Spicky Vine
+  power: 30
+  accuracy: 95
+  elementType: 0
+  maxUsage: 20
+  moveParticleEffect: {fileID: 825686787082638565, guid: 42f4c1393b572eb4b92e7000bdc04d5d, type: 3}

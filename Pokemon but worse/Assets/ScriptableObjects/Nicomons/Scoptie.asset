@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00c5e1763eb3b5347875225186c0902d, type: 3}
+  m_Name: Scoptie
+  m_EditorClassIdentifier: 
+  NicomonModel: {fileID: 8237208524332143049, guid: 4d795ffe342da7741acb87becd657bff, type: 3}
+  uniqueID: 3
+  elementType1: 0
+  elementType2: 5
+  maxHP: 100
+  currentHP: 100
+  attack: 70
+  defence: 50
+  speed: 0
+  learnableMoves:
+  - moveBlueprint: {fileID: 11400000, guid: 6fcb2f4bf2b472940928a7a445f2a927, type: 2}
+  - moveBlueprint: {fileID: 11400000, guid: a8104035085f89b47aa4ee5b921d6018, type: 2}
+  - moveBlueprint: {fileID: 11400000, guid: 376512cbad244594fac69e82404c162b, type: 2}
+  - moveBlueprint: {fileID: 11400000, guid: 2aeb54635bda0fa4e83e599831233810, type: 2}
